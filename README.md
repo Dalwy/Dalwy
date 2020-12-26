@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### Welcome to my github page
-[![Github](https://img.shields.io/github/followers/trujamal?label=Follow&style=social)](https://github.com/Dalwy)
+[![Github](https://img.shields.io/github/followers/Dalwy?label=Follow&style=social)](https://github.com/Dalwy)
 ![](https://visitor-badge.laobi.icu/badge?page_id=Dalwy)
 ***
 I'm Dalton Melville! Or Dalwy! I'm always trying my best to learn the most that I can and adapt to things that I don't know as fast as possible! I've been programming for about 8 years now and have gotten to work with some amazing people throughout my time and I look forward to working with many more! I'm currently trying ot involve myself within many different projects! If you have anything you would like to work on or discuss feel free to contact me at anytime! I look forward to meeting you! 
