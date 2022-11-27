@@ -24,7 +24,7 @@ I'm Dalton! Or Dalwy! I'm always trying my best to learn the most that I can and
 
 ## More information/links
 - [Website (New one in the Works!)](https://Dalwy.dev)
-- [LinkedIn](http://linkedin.com/in/daltonmelville)
+<!-- - [LinkedIn](http://linkedin.com/in/daltonmelville) -->
 
 ## My Github Stats 😄
 <p align="center">
